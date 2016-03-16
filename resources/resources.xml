@@ -1,0 +1,3 @@
+<resources>
+    <bitmap id="Logo" filename="logo_small.png" dithering="none" />
+</resources>
